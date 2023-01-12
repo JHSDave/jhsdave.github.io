@@ -4,7 +4,7 @@ Jasmine Dave
 ### *Daddy chill*
 ---
 ![yan dyan ka magaling](![shrek meme.jpg])
-
+<img src=”(shrek meme.jpg)”>
 ---
 Things to know about me:
 
