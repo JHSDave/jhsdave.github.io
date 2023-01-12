@@ -3,8 +3,8 @@ Jasmine Dave
 ---
 ### *Daddy chill*
 ---
-![yan dyan ka magaling](![image](https://user-images.githubusercontent.com/122240967/212052748-eb06603c-53c5-4325-bc19-b56ec1b35c5f.png)
-)
+![yan dyan ka magaling](![shrek meme.jpg])
+
 ---
 Things to know about me:
 
