@@ -4,7 +4,6 @@ Jasmine Dave
 *Daddy chill*
 ---
 <img src="https://user-images.githubusercontent.com/122240967/212249882-9c2791dc-f98c-4daf-92c9-e8cd2dcd1a90.png" width="500" height="500">
-
 ---
 My Favorite Music List:
 ---
@@ -13,9 +12,6 @@ My Favorite Music List:
 [`Harehare Ya`](https://www.youtube.com/watch?v=eg65SbqmT0s)
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=rTJjtSP-ORc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
 
 **DESCRIBING RANDOM PEOPLE FROM BOBOLA**
 
