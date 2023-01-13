@@ -16,8 +16,8 @@ Things to know about me:
 [`CH4NGE`](https://www.youtube.com/watch?v=LbO4pg_LHUI&list=RDLbO4pg_LHUI&start_radio=1)
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
-| ----------- | ----------- |
-| Me | Me |
+| ----------- | ----------- | ----------- |-----------|
+| Me | Me | Me | Me | Me | ME | Me |
 
 
 
