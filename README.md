@@ -18,6 +18,8 @@ Jasmine Dave
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rTJjtSP-ORc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
 **DESCRIBING RANDOM PEOPLE FROM BOBOLA**
 
 | Vaughn |  Ashley |  Kerstine |    Nico   |           Ykay          |
