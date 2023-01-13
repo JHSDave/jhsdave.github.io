@@ -15,7 +15,9 @@ Things to know about me:
 
 [`CH4NGE`](https://www.youtube.com/watch?v=LbO4pg_LHUI&list=RDLbO4pg_LHUI&start_radio=1)
 
-| Monday | Tuesday | Wednesday | Thursday  | Friday |
+**THINGS I WANT TO BE WHEN I GROW UP**
+
+| MOnday | Tuesday | Wednesday | Thursday  | Friday |
 | ------ | --------| --------  |-----------|--------|
 |    Me  |    Me   |     Me    |     Me    |    Me  | 
 
