@@ -16,6 +16,22 @@ Jasmine Dave
 
 3. [`Harehare Ya`](https://www.youtube.com/watch?v=eg65SbqmT0s)
 
+4. [`MACHINE`](https://www.youtube.com/watch?v=pS78eUtngEo&list=RDpS78eUtngEo&start_radio=1)
+
+5. [`Warbringer`](https://www.youtube.com/watch?v=jiT2Mak9AzI&list=RDpS78eUtngEo&index=2)
+
+6. [`Mind Games](https://www.youtube.com/watch?v=c-EkFgViaPE&list=RDpS78eUtngEo&index=4)
+
+7. [`Dies Irae`](https://www.youtube.com/watch?v=n1ZQDtzzUMo&list=RDpS78eUtngEo&index=9)
+
+8. [`Rap Music`](https://www.youtube.com/watch?v=B6DGB0oESzQ)
+
+9. []
+
+10. []
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lVRJbkrzrCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
