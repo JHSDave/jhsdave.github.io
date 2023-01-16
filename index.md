@@ -6,7 +6,7 @@ Jasmine Dave
 <img src="https://user-images.githubusercontent.com/122240967/212249882-9c2791dc-f98c-4daf-92c9-e8cd2dcd1a90.png" width="500" height="500">
 
 ---
-<h5>**My Favorite Music List:**</h5>
+<h1>**My Favorite Music List:**</h1>
 
 ---
 
