@@ -1,8 +1,6 @@
 # jhsdave.github.io 
 Jasmine Dave 
----
-<h1><samp><i>Welcome to the Adonis club</samp></i></h1>
----
+
 <img src="https://www.canva.com/design/DAFVKaRH2do/view" width="600" height="600">
 
 <img src="https://user-images.githubusercontent.com/122240967/212249882-9c2791dc-f98c-4daf-92c9-e8cd2dcd1a90.png" width="500" height="500">
