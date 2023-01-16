@@ -11,8 +11,10 @@ Jasmine Dave
 ---
 
 1. [`SUZUME`](https://www.youtube.com/watch?v=qal34e9v_pk)
-[`CH4NGE`](https://www.youtube.com/watch?v=LbO4pg_LHUI&list=RDLbO4pg_LHUI&start_radio=1) 
-[`Harehare Ya`](https://www.youtube.com/watch?v=eg65SbqmT0s)
+
+2. [`CH4NGE`](https://www.youtube.com/watch?v=LbO4pg_LHUI&list=RDLbO4pg_LHUI&start_radio=1) 
+
+3. [`Harehare Ya`](https://www.youtube.com/watch?v=eg65SbqmT0s)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lVRJbkrzrCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
