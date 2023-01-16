@@ -9,11 +9,8 @@ Jasmine Dave
 **My Favorite Music List:**
 
 ---
-1.
-2.
-3.
 
-[`SUZUME`](https://www.youtube.com/watch?v=qal34e9v_pk)
+1. [`SUZUME`](https://www.youtube.com/watch?v=qal34e9v_pk)
 [`CH4NGE`](https://www.youtube.com/watch?v=LbO4pg_LHUI&list=RDLbO4pg_LHUI&start_radio=1) 
 [`Harehare Ya`](https://www.youtube.com/watch?v=eg65SbqmT0s)
 
