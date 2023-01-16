@@ -6,7 +6,7 @@ Jasmine Dave
 <img src="https://user-images.githubusercontent.com/122240967/212249882-9c2791dc-f98c-4daf-92c9-e8cd2dcd1a90.png" width="500" height="500">
 
 ---
-**My Favorite Music List:**
+<h3>**My Favorite Music List:**</h3>
 
 ---
 
@@ -20,13 +20,13 @@ Jasmine Dave
 
 5. [`Warbringer`](https://www.youtube.com/watch?v=jiT2Mak9AzI&list=RDpS78eUtngEo&index=2)
 
-6. [`Mind Games](https://www.youtube.com/watch?v=c-EkFgViaPE&list=RDpS78eUtngEo&index=4)
+6. [`Mind Games`](https://www.youtube.com/watch?v=c-EkFgViaPE&list=RDpS78eUtngEo&index=4)
 
-7. [`Dies Irae`](https://www.youtube.com/watch?v=n1ZQDtzzUMo&list=RDpS78eUtngEo&index=9)
+7. [`Apashe`](https://www.youtube.com/watch?v=n1ZQDtzzUMo&list=RDpS78eUtngEo&index=9)
 
 8. [`Rap Music`](https://www.youtube.com/watch?v=B6DGB0oESzQ)
 
-9. []
+9. [](
 
 10. []
 
